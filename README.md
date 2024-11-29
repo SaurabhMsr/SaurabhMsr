@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
 <h3 align="center">A Experienced Data/Business Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=business%20analytics%20animated%20data%20analyst%20gif&imgurl=https%3A%2F%2Fimarticus.org%2Fblog%2Fwp-content%2Fuploads%2F2019%2F05%2Fdaonline.gif&imgrefurl=https%3A%2F%2Fimarticus.org%2Fblog%2Fcan-you-become-a-data-analyst-by-online-tutorials-big-data-analytics-blog%2F&docid=Ex96mdHXIOmZuM&tbnid=BplRxAhaOUFnRM&vet=12ahUKEwiyvaXXpoGKAxVV7TgGHX9RJKYQM3oECGcQAA..i&w=801&h=372&hcb=2&ved=2ahUKEwiyvaXXpoGKAxVV7TgGHX9RJKYQM3oECGcQAA">
-
+<img align="right" alt="Analytics" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fdata-analysis&psig=AOvVaw1UWpnmMpmqVqZZ88e9gUZe&ust=1732961470809000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDTzN-mgYoDFQAAAAAdAAAAABAK">
 - 🔭 I’m currently working on [Reckitt Benckiser](https://www.reckitt.com/)
 
 - 🌱 I’m currently learning **Python, Business strategy**
